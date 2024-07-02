@@ -1,16 +1,28 @@
-# paywall_example
+# Paywall_Example
 
-A new Flutter project.
+This project was undertaken for self-improvement and has certain learning outcomes. In this project, an existing design has been coded with Flutter. There is no back-end code available. It is developed with Flutter.
 
-## Getting Started
+Feel free to customize and modify the theme and components to suit your personal style and branding preferences.
 
-This project is a starting point for a Flutter application.
+## License
 
-A few resources to get you started if this is your first Flutter project:
+This repository is licensed under the MIT License, allowing you to freely use, modify, and distribute the template as desired. If you use the site's design with minimal changes, please acknowledge me as the original designer.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Installation
+1. Clone the repository
+2. Open the project in Android Studio
+3. Install dependencies
+4. Run the project
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Screenshots
+
+### Paywall
+<img src="/screenshots/Paywall_Frame.png" alt="Screenshot from App" width="300" />
+<br><br>
+
+## Contact
+
+You can reach me at:
+
+- **Email:** [rustemavci@hotmail.com.tr](mailto:rustemavci@hotmail.com.tr)
+- **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/rüstem-avcı)
